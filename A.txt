@@ -1,3 +1,5 @@
-First commit on master
+﻿First commit on master
 
 Most módosítom a masteren az első commitot
+
+Második módosítása az A file-nak
