@@ -1,0 +1,1 @@
+﻿A B file létrrehozása egy új branchen a masterből
